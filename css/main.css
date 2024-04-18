@@ -22,3 +22,10 @@ h1 {
      font-size: 100px;
 }
 
+.circle-face{
+    background-color:white;
+    height: 300px;
+    width: 300px;
+    border-radius: 150px;
+}
+
